@@ -11,4 +11,4 @@ If we have taken your request, we will add the label "to-be-done" to your reques
 
 If we have fixed the bug or finished the request, the original report will get the label "done" and get closed
 
-Please follow our rules. The rules will be updated if there's any new things we have to say
+Please follow our rules. The rules will be updated if there are some new things we have to say
